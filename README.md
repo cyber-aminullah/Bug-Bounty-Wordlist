@@ -1,1 +1,1 @@
-# wordlist_for_bug_bounty
+# wordlist for bug bounty
